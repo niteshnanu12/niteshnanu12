@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niteshnanu12
-- 👀 I’m interested in web developing and app development
-- 🌱 I’m currently learning java, kotlen, 
+- 👀 I’m interested in web developing and app development along side with new technology 
+- 🌱 I’m currently learning java, kotlen, MERN stack ,
 - 💞️ I’m looking to collaborate on new cutting edge technology 
 - 📫 How to reach me ...panthuluniteshkumar@gmail.com, +918328607614,
 
