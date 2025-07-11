@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niteshnanu12
 - 👀 I’m interested in web developing and app development along side with new technology 
-- 🌱 I’m currently learning java, kotlen, MERN stack ,.Net, Blazor.
+- 🌱 I’m currently learning python, MERN stack ,.Net, Blazor.
 - 💞️ I’m looking to collaborate on new cutting edge technology 
 - 📫 How to reach me ...panthuluniteshkumar@gmail.com, +918328607614,
 
